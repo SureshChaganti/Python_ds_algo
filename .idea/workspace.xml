@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be4278a7-56f8-4665-86b2-3e160d5bd658" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/UDS/MyQueue.py" beforeDir="false" afterPath="$PROJECT_DIR$/UDS/MyQueue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../eo-science-productization-recon" beforeDir="false" afterPath="$PROJECT_DIR$/../eo-science-productization-recon" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jG1HKRcsQmnOhLMeq5YhkyhIme" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.MyStack">
+    <configuration name="MyQueue" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_ds_algo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UDS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UDS/MyQueue.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MyStack" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python_ds_algo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UDS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UDS/MyStack.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.MyStack" />
+        <item itemvalue="Python.MyQueue" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be4278a7-56f8-4665-86b2-3e160d5bd658" name="Default Changelist" comment="" />
+      <created>1603415525152</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603415525152</updated>
+      <workItem from="1603415526664" duration="3531000" />
+    </task>
+    <task id="LOCAL-00001" summary="stack_queue">
+      <created>1603417262478</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603417262478</updated>
+    </task>
+    <task id="LOCAL-00002" summary="stack_queue">
+      <created>1603452121740</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603452121740</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="stack_queue" />
+    <option name="LAST_COMMIT_MESSAGE" value="stack_queue" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="154" y="-948" key="CommitChangelistDialog2" timestamp="1603452247500">
+      <screen x="-636" y="-1057" width="2560" height="1057" />
+    </state>
+    <state x="154" y="-948" key="CommitChangelistDialog2/-636.-1057.2560.1057/0.23.1280.730@-636.-1057.2560.1057" timestamp="1603452247500" />
+    <state x="132" y="-856" key="DiffContextDialog" timestamp="1603417494016">
+      <screen x="-636" y="-1057" width="2560" height="1057" />
+    </state>
+    <state x="132" y="-856" key="DiffContextDialog/-636.-1057.2560.1057/0.23.1280.730@-636.-1057.2560.1057" timestamp="1603417494016" />
+    <state width="2518" height="273" key="GridCell.Tab.0.bottom" timestamp="1603451988003">
+      <screen x="-636" y="-1057" width="2560" height="1057" />
+    </state>
+    <state width="2518" height="273" key="GridCell.Tab.0.bottom/-636.-1057.2560.1057/0.23.1280.730@-636.-1057.2560.1057" timestamp="1603451988003" />
+    <state width="2518" height="273" key="GridCell.Tab.0.center" timestamp="1603451988002">
+      <screen x="-636" y="-1057" width="2560" height="1057" />
+    </state>
+    <state width="2518" height="273" key="GridCell.Tab.0.center/-636.-1057.2560.1057/0.23.1280.730@-636.-1057.2560.1057" timestamp="1603451988002" />
+    <state width="2518" height="273" key="GridCell.Tab.0.left" timestamp="1603451988002">
+      <screen x="-636" y="-1057" width="2560" height="1057" />
+    </state>
+    <state width="2518" height="273" key="GridCell.Tab.0.left/-636.-1057.2560.1057/0.23.1280.730@-636.-1057.2560.1057" timestamp="1603451988002" />
+    <state width="2518" height="273" key="GridCell.Tab.0.right" timestamp="1603451988003">
+      <screen x="-636" y="-1057" width="2560" height="1057" />
+    </state>
+    <state width="2518" height="273" key="GridCell.Tab.0.right/-636.-1057.2560.1057/0.23.1280.730@-636.-1057.2560.1057" timestamp="1603451988003" />
+    <state x="244" y="-825" key="Vcs.Push.Dialog.v2" timestamp="1603452319150">
+      <screen x="-636" y="-1057" width="2560" height="1057" />
+    </state>
+    <state x="244" y="-825" key="Vcs.Push.Dialog.v2/-636.-1057.2560.1057/0.23.1280.730@-636.-1057.2560.1057" timestamp="1603452319150" />
+    <state x="485" y="-643" key="git4idea.ui.GitStashDialog" timestamp="1603452190184">
+      <screen x="-636" y="-1057" width="2560" height="1057" />
+    </state>
+    <state x="485" y="-643" key="git4idea.ui.GitStashDialog/-636.-1057.2560.1057/0.23.1280.730@-636.-1057.2560.1057" timestamp="1603452190184" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python_ds_algo$MyQueue.coverage" NAME="MyQueue Coverage Results" MODIFIED="1603417217979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UDS" />
+    <SUITE FILE_PATH="coverage/Python_ds_algo$MyStack.coverage" NAME="MyStack Coverage Results" MODIFIED="1603451987996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UDS" />
+  </component>
+</project>
